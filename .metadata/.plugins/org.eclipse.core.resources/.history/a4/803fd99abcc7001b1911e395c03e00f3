@@ -1,0 +1,5 @@
+package com.generation.blogPessoal.seguranca;
+
+public class BasicSecurityConfig {
+
+}
