@@ -1,0 +1,7 @@
+package com.generation.blogPessoal.security;
+
+import org.springframework.security.core.userdetails.UserDetailsService;
+
+public class UserDetailsImps implements UserDetailsService {
+
+}
